@@ -4,7 +4,7 @@
 
 I'm Sean. I enjoy applying data science techniques **to learn** about the world in which we live.
 
-Check out some humble analyses on my portfolio page [ssbyrne](ssbyrne.com "Adding new work... sometimes in my spare time")
+Check out some humble analyses on my portfolio page [ssbyrne](ssbyrne.com "Adding new work... sometimes in my spare time") ...still a work in progress
 
 Contact me: 
 
